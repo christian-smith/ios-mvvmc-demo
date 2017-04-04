@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin IV",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/61qTE9kINgL.jpg",
+    "genre": "Rock",
+    "tracks": [
+      "Black Dog",
+      "Rock And Roll",
+      "The Battle Of Evermore",
+      "Stairway To Heaven",
+      "Misty Mountain Hop",
+      "Four Sticks",
+      "Going To California",
+      "When The Levee Breaks"
+    ]
+  },
+  {
+    "id": 2,
+    "artist": "AC/DC",
+    "title": "Back in Black",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/61sJIfuUSiL._SL1500_.jpg",
+    "genre": "Rock",
+    "tracks": [
+      "Hells Bells",
+      "Shoot To Thrill",
+      "What Do You Do For Money Honey",
+      "Let Me Put My Love Into You",
+      "Back In Black",
+      "You Shook Me All Night Long",
+      "Have A Drink On Me",
+      "Shake A Leg",
+      "Rock And Roll Ain't Noise Pollution"
+    ]
+  },
+  {
+    "id": 3,
+    "artist": "Green Day",
+    "title": "Dookie",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/91kny7EUh5L._SL1425_.jpg",
+    "genre": "Alternative",
+    "tracks": [
+      "Burnout",
+      "Having a Blast",
+      "Chump",
+      "Longview",
+      "Welcome to Paradise",
+      "Pulling Teeth",
+      "Basket Case",
+      "She",
+      "Sassafras Roots",
+      "When I Come Around",
+      "Coming Clean",
+      "Emenius Sleepus",
+      "In the End",
+      "F.O.D."
+    ]
+  },
+  {
+    "id": 4,
+    "artist": "Radiohead",
+    "title": "OK Computer",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/81ni71zIxIL._SL1406_.jpg",
+    "genre": "Alternative",
+    "tracks": [
+      "Airbag",
+      "Paranoid Android",
+      "Subterranean Homesick Alien",
+      "Exit Music (For a Film)",
+      "Let Down",
+      "Karma Police",
+      "Fitter Happier",
+      "Electioneering",
+      "Climbing Up the Walls",
+      "No Surprises",
+      "Lucky",
+      "The Tourist"
+    ]
+  },
+  {
+    "id": 5,
+    "artist": "OutKast",
+    "title": "Aquemini",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/91rwybc5lKL._SL1500_.jpg",
+    "genre": "Hiphop",
+    "tracks": [
+      "Hold On, Be Strong",
+      "Return of the 'G'",
+      "Rosa Parks",
+      "Skew It on the Bar-B",
+      "Aquemini",
+      "Synthesizer",
+      "Slump",
+      "West Savannah",
+      "Da Art of Storytellin' (Pt. 1)",
+      "Da Art of Storytellin' (Pt. 2)",
+      "Mamacita",
+      "SpottieOttieDopaliscious",
+      "Y'all Scared",
+      "Nathaniel",
+      "Liberation",
+      "Chonkyfire"
+    ]
+  },
+  {
+    "id": 6,
+    "artist": "Fugazi",
+    "title": "Repeater",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/91Vmr7OIzEL._SL1500_.jpg",
+    "genre": "Punk",
+    "tracks": [
+      "Turnover",
+      "Repeater",
+      "Brendan #1",
+      "Merchandise",
+      "Blueprint",
+      "Sieve-Fisted Find",
+      "Greed",
+      "Two Beats Off",
+      "Styrofoam",
+      "Reprovisional",
+      "Shut the Door"
+    ]
+  },
+  {
+    "id": 7,
+    "artist": "Dead Kennedys",
+    "title": "Fresh Fruit for Rotting Vegetables",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/51%2BlopO0sQL.jpg",
+    "genre": "Punk",
+    "tracks": [
+      "Kill The Poor",
+      "Forward To Death",
+      "When Ya Get Drafted",
+      "Let's Lynch The Landlord",
+      "Drug Me",
+      "Your Emotions",
+      "Chemical Warfare",
+      "California Uber Alles",
+      "I Kill Children",
+      "Stealing People's Mail",
+      "Funland At The Beach",
+      "Ill In The Head",
+      "Holiday In Cambodia",
+      "Viva Las Vegas"
+    ]
+  }
+]
